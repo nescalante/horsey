@@ -51,6 +51,10 @@ pre code {
   font-size: 18px;
 }
 
+pre {
+  overflow-x: scroll;
+}
+
 label {
   display: block;
   margin-bottom: 15px;
